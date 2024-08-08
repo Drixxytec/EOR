@@ -2,6 +2,9 @@
 ![Pablo Banner](https://cdn.discordapp.com/banners/1244001951738499186/e90ba9e3bd533a41f58cf6394273bea0?size=4096)
 ![pablo pfp](https://cdn.discordapp.com/avatars/1244001951738499186/48b888bef828702a6181342f41050f67?size=1024)
 
+# Freakiest Man in the universe
+![pfp](https://cdn.discordapp.com/avatars/1157384740131840141/821f32bde9da412c4a6ae3e89b34f290?size=1024)
+
 # KreativeKNG
 ![HisAwesomebanner](https://cdn.discordapp.com/banners/1064384956870180935/e076738cc65482f283d5811bd3b051ac?size=4096)
 ![KNG](https://cdn.discordapp.com/avatars/1064384956870180935/7190c440f6425c6da17e50e2aa7c05b9?size=1024)
