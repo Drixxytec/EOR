@@ -36,3 +36,7 @@
 # -1 Iq
 ![banner](https://cdn.discordapp.com/banners/743775689819553832/a_1e615a9b72a1062b0c8ef10d4adaba3e?size=4096)
 ![pfp](https://cdn.discordapp.com/avatars/743775689819553832/a_2f216c931a5eebe55a65b0b009d5a81f)
+
+# Nick
+![pfp](https://cdn.discordapp.com/banners/1208476723549704205/0f4b72bdf633c9dcfef3d89f2718e15e?size=4096)
+![pfp](https://cdn.discordapp.com/avatars/1208476723549704205/d96f6c16c8e7aed0587fc1c470dd2723?size=1024)
