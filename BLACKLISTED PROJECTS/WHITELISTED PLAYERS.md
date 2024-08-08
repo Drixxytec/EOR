@@ -12,7 +12,7 @@
 
 # Frenchie Fries
 ![meow](https://cdn.discordapp.com/banners/733248179579125830/dd3f1a6d05dea66f17b62953a50c1296?size=4096)
-![pfp](https://cdn.discordapp.com/avatars/733248179579125830/a_e553227eca95c90ec69642a1efd05015?size=1024)
+![pfp](https://cdn.discordapp.com/avatars/733248179579125830/a_e553227eca95c90ec69642a1efd05015)
 
 # Criador
 ![banner](https://cdn.discordapp.com/banners/860809634699804702/a_cbb0ecd23314903d92292e8509344d72?size=4096)
@@ -27,9 +27,9 @@
 ![pfp](https://cdn.discordapp.com/avatars/421115400445493248/a_679bf147763ee7a8557d85a9348ca3ed?size=1024)
 
 # SmokerTeeSaft
-![banner](https://cdn.discordapp.com/banners/984377523716644875/a_c7f555a2b483396339cfb2a6a370e567?size=4096)
+![banner](https://cdn.discordapp.com/banners/984377523716644875/a_c7f555a2b483396339cfb2a6a370e567)
 ![pfp](https://cdn.discordapp.com/avatars/984377523716644875/c0163777894a730718eec950eda2ccd3?size=1024)
 
 # -1 Iq
 ![banner](https://cdn.discordapp.com/banners/743775689819553832/a_1e615a9b72a1062b0c8ef10d4adaba3e?size=4096)
-![pfp](https://cdn.discordapp.com/avatars/743775689819553832/a_2f216c931a5eebe55a65b0b009d5a81f?size=1024)
+![pfp](https://cdn.discordapp.com/avatars/743775689819553832/a_2f216c931a5eebe55a65b0b009d5a81f)
