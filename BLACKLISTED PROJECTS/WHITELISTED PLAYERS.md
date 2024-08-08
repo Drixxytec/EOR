@@ -15,7 +15,7 @@
 ![pfp](https://cdn.discordapp.com/avatars/733248179579125830/a_e553227eca95c90ec69642a1efd05015)
 
 # Criador
-![banner](cdn.discordapp.com/avatars/860809634699804702/c087aa6e7b11a67631728f8c8e22e59a)
+![banner](https://cdn.discordapp.com/banners/860809634699804702/a_cbb0ecd23314903d92292e8509344d72)
 ![pfp](cdn.discordapp.com/avatars/860809634699804702/c087aa6e7b11a67631728f8c8e22e59a)
 
 # J00l The Scooter Guy
