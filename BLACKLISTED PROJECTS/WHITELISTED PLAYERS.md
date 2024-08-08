@@ -19,8 +19,8 @@
 ![pfp](cdn.discordapp.com/avatars/860809634699804702/c087aa6e7b11a67631728f8c8e22e59a)
 
 # J00l The Scooter Guy
-![banner](https://cdn.discordapp.com/banners/1062665034116907098/c808f7a6baf618a1230e2cf4ea30a3b3)
-![pfp](https://cdn.discordapp.com/avatars/1062665034116907098/a_2386f840c75b6e890453d2e8083935bb)
+![banner](https://cdn.discordapp.com/banners/1062665034116907098/808f7a6baf618a1230e2cf4ea30a3b3)
+![pfp](https://cdn.discordapp.com/avatars/1062665034116907098/a2386f840c75b6e890453d2e8083935bb)
 
 # Me :3 
 ![banner](https://cdn.discordapp.com/banners/421115400445493248/a_0a18dba0f9e824e7688ee61e7a15ce41)
