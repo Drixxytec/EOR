@@ -14,6 +14,10 @@
 ![meow](https://cdn.discordapp.com/banners/733248179579125830/dd3f1a6d05dea66f17b62953a50c1296)
 ![pfp](https://cdn.discordapp.com/avatars/733248179579125830/a_e553227eca95c90ec69642a1efd05015)
 
+# Criador
+![banner](cdn.discordapp.com/avatars/860809634699804702/c087aa6e7b11a67631728f8c8e22e59a)
+![pfp](cdn.discordapp.com/avatars/860809634699804702/c087aa6e7b11a67631728f8c8e22e59a)
+
 # J00l The Scooter Guy
 ![banner](https://cdn.discordapp.com/banners/1062665034116907098/c808f7a6baf618a1230e2cf4ea30a3b3)
 ![pfp](https://cdn.discordapp.com/avatars/1062665034116907098/a_2386f840c75b6e890453d2e8083935bb)
